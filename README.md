@@ -2,6 +2,8 @@
 
 This .reg file disables Copilot UI integrations and various AI features across the system and apps like Paint, Snipping Tool, and Windows Search. This will not uninstall the apps but will turn off Copilot and AI integrations wherever possible, including the taskbar button and Bing in Search.
 
+As is always the case - BACK UP YOUR REGISTRY FIRST. I am not responsible for any system damage that may, if by rare chance, occur due to running this script on your machine.
+
 It achieves automation of:
 
 - Removing taskbar Copilot
