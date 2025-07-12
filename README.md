@@ -11,7 +11,7 @@ It achieves automation of:
 
 Currently, Notepad is the only major built-in app where Microsoft has not provided any official or unofficial way to disable or remove Copilot integrations (like “Explain with Copilot”) without uninstalling the app entirely.
 
-#CAUTION# This will uninstall Notepad entirely. Find an older version online or use something like Notepad++ that has no baked-in AI features.
+# CAUTION # This will uninstall Notepad entirely. Find an older version online or use something like Notepad++ that has no baked-in AI features.
 
 If you want to proceed, open Powershell as admin and run the following command:
 
