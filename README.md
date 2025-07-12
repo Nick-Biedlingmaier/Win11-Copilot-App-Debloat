@@ -1,4 +1,4 @@
-# Win11-Copilot-App-Debloat #
+# Windows-Copilot-Disable (Regedit) #
 
 This .reg file disables Copilot UI integrations and various AI features across the system and apps like Paint, Snipping Tool, and Windows Search. This will not uninstall the apps but will turn off Copilot and AI integrations wherever possible, including the taskbar button and Bing in Search.
 
