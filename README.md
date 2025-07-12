@@ -4,10 +4,10 @@ This .reg file disables Copilot UI integrations and various AI features across t
 
 It achieves automation of:
 
-- Removes taskbar Copilot
-- Strips AI features from Paint, Snipping Tool, etc.
-- Blocks Bing/Copilot integrations in Search
-- Disables AI popups in Edge (if installed)
+- Removing taskbar Copilot
+- Stripping AI features from Paint, Snipping Tool, etc.
+- Blocking Bing/Copilot integrations in Search
+- Disabling AI popups in Edge (if installed)
 
 Currently, Notepad is the only major built-in app where Microsoft has not provided any official or unofficial way to disable or remove Copilot integrations (like “Explain with Copilot”) without uninstalling the app entirely.
 
