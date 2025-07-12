@@ -18,4 +18,5 @@ Currently, Notepad is the only major built-in app where Microsoft has not provid
 If you want to proceed, open Powershell as admin and run the following command:
 
 Get-AppxPackage *Microsoft.WindowsNotepad* | Remove-AppxPackage <br />
+
 (This will only do it for the current user, not all system users)
